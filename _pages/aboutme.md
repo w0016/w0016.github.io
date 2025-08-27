@@ -6,16 +6,22 @@ layout: single
 
 **Jung Woo Kim**
 * 서울대학교 건축도시공간연구실 박사과정
-* w0016@snu.ac.kr
-
+* w0016@snu.ac.kr; jungwoojunekim@gmail.com
+* 공간분석, 공간행태, 빅데이터
   
 **Education**
-* 서울대학교 건축학과 공학박사 수료(2022)   
-* 서울대학교 건축학과 공학석사(2020)   
-* Pratt Institute, Bachelor of Architecture(2016)
+* Ph.D.  in Architecture and Architectural Engineering, Seoul National University, Republic of Korea. 서울대학교 건축학과 공학박사(2020-2025)   
+* M.S.   in Architecture and Architectural Engineering, Seoul National University, Republic of Korea. 서울대학교 건축학과 공학석사(2018-2020)   
+* B.ARCH. Pratt Institute, New York, United States. 프랫대학교 건축학 학사(2010-2016)
+* Kunming International Academy, Kunming, China. 곤명국제학교 (2015-2010)
     
 **Publications**   
+
+* Ph.D. Dissertation: 서울시 대단지 아파트의 공간적 개방성 실증: 모바일 빅데이터 도시 이용 행태 분석. 서울대학교 대학원 박사학위논문, 김정우 (2025).
+* M.S. Thesis: 실내공개공지 도입을 위한 초대형 업무시설 1층 공공공간 연구. 서울대학교 대학원 석사학위논문, 김정우 (2020).
+
 * 서울시 15분 근린생활권의 실증과 지역생활권 경계 비교 - 개인통행실태조사 데이터와 커뮤니티 탐지 알고리즘의 활용 -. 대한건축학회논문집, 40(6), 119-130. 김정우, 강범준. (2024).
+* Kim, J. W., & Kang, B. (2024, July 8-12). Redefining urban neighborhoods: Applying the 15-minute city concept in Seoul [Conference session]. AESOP Annual Congress, Paris, France.
 * 서울시 도시재생활성화지역 내 젠트리피케이션 발생지의 공간구조적 특성 연구. 대한건축학회논문집, 37(9), 71-79. 박근송, 이태규, 김정우, 박지은. (2021). 
 * 초대형 업무시설 실내 공공공간의 공공성 평가지표 검증 연구 - 아트리움 공간을 중심으로 -. 대한건축학회논문집, 37(4), 33-44.  김정우, 최재필. (2021). 
 * 지역사회와의 연계강화를 위한 대학공간 공유 방안 연구- 6개 거점국립대를 중심으로 -. 청소년시설환경, 19(3), 3-16.  김수영, 박송아, 김정우, 이상홍. (2021). 
@@ -25,11 +31,7 @@ layout: single
 * 노후 공동주택 리모델링 단위평면 채광 및 환기 성능 분석 - 2베이 평면유형을 중심으로 -. 대한건축학회논문집, 36(11), 129-136. 최재필, 최준호, 백수연, 염수, 김정우. (2020).
 * 전국 젠트리피케이션 현황 사례조사를 통한 지역별 젠트리피케이션 유형 분석. 대한건축학회 학술발표대회 논문집, 40(1), 103-106. 이태규, 김정우, 박근송. (2020).
 * 공간구문론을 활용한 실내공개공지 공공성 평가지표 개발 연구 - 뉴욕시 실내공개공지를 중심으로 -. 대한건축학회 논문집 - 계획계, 36(4), 83-92. 김정우, 최재필. (2020).  
-
-* 실내공개공지 도입을 위한 초대형 업무시설 1층 공공공간 연구. 서울대학교 대학원 석사학위논문, 김정우 (2020).
 * 실내형 공개공간의 필요성과 방향성. 대한건축학회 학생기자단 기사, 66(3), 89-90. 박소연 외(2022).
-
-* Kim, J. W., & Kang, B. (2024, July 8-12). Redefining urban neighborhoods: Applying the 15-minute city concept in Seoul [Conference session]. AESOP Annual Congress, Paris, France.
 
   
 **Projects**   
@@ -49,4 +51,3 @@ layout: single
 * 아름지기문화재단, Intern (2012~2013)
 * 한국종합건축사무소, Intern (2011)
 
-![](https://github.com/w0016/w0016.github.io/blob/master/assets/port_sample.jpg)
