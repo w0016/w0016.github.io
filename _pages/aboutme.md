@@ -5,13 +5,14 @@ layout: single
 ---
 
 **Jung Woo Kim**
-* 서울대학교 건축도시공간연구실 선임연구원
+* 서울대학교 건설환경종합연구소 선임연구원
+* 건축도시공간연구실(LAUS)
 * w0016@snu.ac.kr; jungwoojunekim@gmail.com
-* 공간분석, 공간행태, 이동데이터, 빅데이터, 공공공간, 아파트단지
+* 공간분석, 공간행태, 아파트단지, 공공공간, 이동데이터, 빅데이터
   
 **Education**
-* Ph.D.  in Architecture and Architectural Engineering, Seoul National University, Republic of Korea. 서울대학교 건축학과 공학박사(2020-2025)   
-* M.S.   in Architecture and Architectural Engineering, Seoul National University, Republic of Korea. 서울대학교 건축학과 공학석사(2018-2020)   
+* Ph.D. in Architecture and Architectural Engineering, Seoul National University, Republic of Korea. 서울대학교 건축학과 공학박사(2020-2025)   
+* M.S.  in Architecture and Architectural Engineering, Seoul National University, Republic of Korea. 서울대학교 건축학과 공학석사(2018-2020)   
 * B.ARCH. Pratt Institute, New York, United States. 프랫대학교 건축학 학사(2010-2016)
 * Kunming International Academy, Kunming, China. 곤명국제학교 (2015-2010)
     
