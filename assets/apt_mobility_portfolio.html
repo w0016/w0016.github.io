@@ -10,6 +10,19 @@
 <style>
   html, body { margin:0; padding:0; height:100%; font-family:'Malgun Gothic','Segoe UI',sans-serif; }
   #map { position:absolute; inset:0; }
+  #panel-toggle {
+    position:absolute; top:12px; left:12px; z-index:20;
+    width:40px; height:40px; border-radius:9px; cursor:pointer; display:none;
+    background:rgba(18,22,30,0.94); color:#e8eaf0; border:1px solid #39414f;
+    font-size:18px; line-height:1;
+  }
+  #panel.collapsed { display:none; }
+  @media (max-width: 640px) {
+    #panel-toggle { display:block; }
+    #panel { top:60px !important; left:12px !important;
+      width:min(300px, calc(100vw - 24px)) !important;
+      max-height:calc(100% - 72px) !important; }
+  }
   #panel {
     position:absolute; top:12px; left:12px; z-index:10;
     width:312px; max-height:calc(100% - 24px); overflow-y:auto;
@@ -67,6 +80,7 @@
 </head>
 <body>
 <div id="map"></div>
+<button id="panel-toggle" aria-label="패널 열기/닫기" title="정보 패널">☰</button>
 <div id="panel">
   <h1>아파트 단지 거주자 통행 흐름 + 단지정보<br><span style="font-weight:normal;color:#9aa4b2;font-size:12px">(휴대폰 데이터 · K-apt 결합)</span></h1>
   <label>단지 검색 (이름 또는 구)
@@ -359,6 +373,13 @@ document.getElementById('topn').addEventListener('input', e => {
   document.getElementById('topn_v').textContent = e.target.value;
   refresh();
 });
+
+// 패널 토글 (좁은 화면/폰): 접으면 지도가 보임
+const panelEl = document.getElementById('panel');
+document.getElementById('panel-toggle').addEventListener('click', () => {
+  panelEl.classList.toggle('collapsed');
+});
+if (window.innerWidth <= 640) panelEl.classList.add('collapsed');
 
 // 포트폴리오 기본 선택: 통행량 최다 단지 (로드 즉시 흐름 표시)
 (function initHero() {
