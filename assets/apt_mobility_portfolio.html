@@ -360,7 +360,19 @@ document.getElementById('topn').addEventListener('input', e => {
   refresh();
 });
 
-refresh();
+// 포트폴리오 기본 선택: 통행량 최다 단지 (로드 즉시 흐름 표시)
+(function initHero() {
+  let g0 = null, mx = -1;
+  V.complexes.forEach(c => { if (c.ti > mx) { mx = c.ti; g0 = c.g; } });
+  if (g0) {
+    selected = g0;
+    renderStats(g0);
+    const c = cxByG[g0];
+    deckgl.setProps({ initialViewState: {
+      longitude: c.cx, latitude: c.cy, zoom: 12.2, pitch: 50, bearing: 0 } });
+  }
+  refresh();
+})();
 </script>
 </body>
 </html>
