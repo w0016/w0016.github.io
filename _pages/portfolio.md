@@ -4,8 +4,11 @@ permalink: /portfolio/
 layout: single
 ---
 <center>
+  
 <div style="position:relative;left:50%;width:100vw;margin-left:-50vw;">
-  <iframe src="/assets/apt_mobility_portfolio.html" width="100%" height="850" style="border:none;display:block;" scrolling="no"></iframe>
+  <div style="max-width:1000px;margin:0 auto;padding:0 16px;">
+    <iframe src="/assets/apt_mobility_portfolio.html" width="100%" height="760" style="border:none;display:block;" scrolling="no"></iframe>
+  </div>
 </div>
 <center><a href="/assets/apt_mobility_portfolio.html" target="_blank">▶ full size</a></center>
 
